@@ -55,6 +55,7 @@ class Owner
     @pets.update(@pets) { |key, value| value = "nervous"}
     @pets.clear
   end 
+  end 
   end
   
 end
