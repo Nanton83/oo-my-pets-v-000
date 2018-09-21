@@ -52,8 +52,7 @@ class Owner
   end
   
   def sell_pets
-    @pets.each do |pet|
-      
+    
     @pets.clear
   end 
   end
