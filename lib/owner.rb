@@ -34,7 +34,7 @@ class Owner
   end
   
   def walk_dogs
-    @pets.each {}
+    
   end
   
 end
