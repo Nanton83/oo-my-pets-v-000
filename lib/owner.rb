@@ -52,7 +52,8 @@ class Owner
   end
   
   def sell_pets
-    @pets.update(@pets) { |key, value| value = "nervous"}
+    @pets.update do |key, value|
+      value = "nervous"
   
   end 
   end 
