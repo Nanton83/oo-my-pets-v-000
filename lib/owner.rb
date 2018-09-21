@@ -61,7 +61,7 @@ class Owner
   end 
   
   def list_pets
-    numbe
+    number_of_dogs = 
   end 
 
 
