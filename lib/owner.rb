@@ -52,7 +52,7 @@ class Owner
   end
   
   def sell_pets
-    @pets.merge!(hash) do |key, old_value, new_value|
+    
     @pets.clear
   end 
   end
